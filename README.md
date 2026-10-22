@@ -49,12 +49,9 @@ I'm building **[Kabir AI](https://www.kabir-ai.com/)**, an AI-powered travel com
 Kabir brings together **conversational AI, location-aware context, destination knowledge, and personalized travel services** to create an intelligent and interactive travel experience.
 
 📲 Try Kabir AI
-
-🌐 Website: Kabir AI
-
-🤖 Android: Get it on Google Play
-
-🍎 iOS: Download on the App Store
+- 🌐 **Website:** [Visit Kabir AI](https://www.kabir-ai.com/)
+- 🤖 **Android:** [Download on Google Play](https://play.google.com/store/apps/details?id=com.kabirai.kabirv2)
+- 🍎 **iOS:** [Download on App Store](https://apps.apple.com/app/id6747632798)
 
 ### ✨ Key Features
 
